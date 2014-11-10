@@ -1,6 +1,5 @@
-NServiceBus.WindowsServiceBus
-=============================
+#### IMPORTANT NOTE: 
 
-NServiceBus support for Windows Service Bus as the underlying transport
+Windows ServiceBus Transport for NServiceBus is not supported at this time by Particular Software. The code is available as-is, for legacy and community use & reference. 
 
-To get started please invoke runmerfirst.ps1 from a powershell console
+Please [contact us](http://particular.net/support) if you have any questions or comments.
